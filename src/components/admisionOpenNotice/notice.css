@@ -1,0 +1,38 @@
+.notice{
+    width: 100%;
+height: 65px;
+}
+.firstDiv{
+    width: 60%;
+background-color: #F2F6A7;
+
+}
+.first{
+    /* Rectangle 6 */
+    font-family: 'Koh', 'Santepheap';
+    font-style: normal;
+    font-weight: 800;
+
+color: black;
+
+
+}
+.secondDiv{
+    width:40%;
+    background-color: #ADE5FF;
+
+}
+.second{
+    
+font-family: 'Konkhmer', 'Sleokchher';
+font-style: normal;
+font-weight: 400;
+color: black;
+}
+span{
+
+
+color: #A11512;
+
+
+}
